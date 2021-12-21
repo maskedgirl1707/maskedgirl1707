@@ -3,7 +3,7 @@ Hello Reader 👋,
 - 👀 I’m interested in upgrading my skills
 - 🌱 I’m currently learning Game development and bit of Machine learning
 - 💞️ I’m looking to collaborate on any project?
-- 📫 How to reach me: boredatr1708@gmail.com
+- 📫 How to reach me: boredaf1708@gmail.com
 - 😀 Fact: NASA’s internet speed is 91 GB per second.
 
 <!---
